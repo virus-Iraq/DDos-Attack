@@ -2,7 +2,8 @@ DDos-Attack
 
 A simple script to attack websites. All you need to do is place the correct IP address for the website
 
-<INSTALL & RUN>
+< INSTALL & RUN >
+
 1- cd DDos-Attack
 2- chmod +x Run.py
 3- python Run.py
