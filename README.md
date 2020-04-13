@@ -1,5 +1,4 @@
-
-# DDos-Attack
+DDos-Attack
 
 A simple script to attack websites. All you need to do is place the correct IP address for the website
 -------------------------------------------------------------------------------------------------------
